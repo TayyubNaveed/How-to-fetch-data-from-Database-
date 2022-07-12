@@ -1,4 +1,4 @@
-# How-to-fetch-data-from-Database-
+# How-to-fetch-data-from-database
 1) Download the files with database.
 2) Copy the downloaded files to the Xampp/htdocs folder.
 3) Now, Start your xampp server and open localhost/phpmyadmin.
